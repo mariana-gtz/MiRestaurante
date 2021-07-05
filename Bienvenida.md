@@ -6,6 +6,8 @@ Para que podamos recibir tu pull request, el archivo debe contener:
 - Pasos a seguir
 - Pequeña descripción del origen del platillo
 
-*Los archivos que se aceptarán serán aquellos en formato .doc, .docx, .txt, .pdf*
+*Los archivos que se aceptarán serán aquellos en formato .doc, .docx, .txt, .pdf y .md*
+
+Puedes ver un ejemplo [aquí](helado-chocolate.md)
 
 **¡Mándanos tu mejor receta y creemos comunidad!**
