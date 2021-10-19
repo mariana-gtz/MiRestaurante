@@ -12,3 +12,6 @@ Para que podamos recibir tu pull request, el archivo debe contener:
 Puedes ver un ejemplo [aquí](molletes.md)
 
 **¡Mándanos tu mejor receta y creemos comunidad!**
+
+pdemos hacer arroz con leche y budines
+
