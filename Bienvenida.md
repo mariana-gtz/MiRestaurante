@@ -5,7 +5,7 @@ Para que podamos recibir tu pull request, el archivo debe contener:
 - Ingredientes a usar
 - Pasos a seguir
 
-**Nota: El nombre del archivo debe ser el nombre de la receta en minúsculas** 
+**Nota: El nombre del archivo debe ser el nombre de la receta en minúsculas ** 
 
 *Los archivos que se aceptarán serán aquellos en formato .doc, .docx, .txt, .pdf y .md*
 
